@@ -60,13 +60,19 @@
      "name": "Ashique Sherief",
      "github": "https://github.com/Ashiz-Red",
      "college": "KMEA",
-     "department": "Computer Science",
+     "department": "Computer Science"
     },
+    {
+      "name": "Rasha Shajahan",
+      "github": "https://github.dev/Rashashajahan",
+      "college": "KMEA",
+      "department": "Computer Science"
+     },
     {
      "name": "Salmath K A " ,
      "github": "https://github.com/salmathrahiman313",
      "college": "KMEA",
-     "department": "Computer Science",
+     "department": "Computer Science"
     }
   ]
 }
