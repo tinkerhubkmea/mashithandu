@@ -60,31 +60,39 @@
      "name": "Ashique Sherief",
      "github": "https://github.com/Ashiz-Red",
      "college": "KMEA",
-     "department": "Computer Science"
+     "department": "Computer Science",
     },
-    {
-      "name": "Rasha Shajahan",
-      "github": "https://github.dev/Rashashajahan",
-      "college": "KMEA",
-      "department": "Computer Science"
-     },
     {
      "name": "Salmath K A " ,
      "github": "https://github.com/salmathrahiman313",
      "college": "KMEA",
-     "department": "Computer Science"
-    },
-    {
-      "name": "Sandra Santhosh" ,
-     "github":"https://github.com/sandrasanthosh31",
-     "college": "KMEA",
      "department": "Computer Science",
     },
     {
+
      "name": "Lamia Thasni O Nysam " ,
+
      "github": "https://github.com/LamiaThasni17",
+
      "college": "KMEA",
+
      "department": "Computer Science",
+
+    }   
+    {
+
+      "name": "vazeem k a ",
+
+      "github": "https://github.com/kadavivazeem",
+
+      "college": "KMEA",
+
+      "department": "computer science and engineering",
+
+      "upload_pic":"true",
+
+      "file_name":"abin-joseph-pic.png"
+
     }
   ]
 }
